@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_large___1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="color_galore_string"><u>Color galore</u></string>
+	<string name="hex_ek2_string">HEX</string>
+	<string name="rgb_ek2_string">RGB</string>
+	<string name="hsb_ek2_string">HSB</string>
+	<string name="cmyk_ek2_string">CMYK</string>
+</resources>
